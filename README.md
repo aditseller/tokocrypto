@@ -4,7 +4,7 @@
     </a>
     <h1 align="center">TokoCrypto</h1>
     <h3 align="center">TokoCrypto is a Cryptocurrency Marketplace</h3>
-    <h3 align="center">TokoCrypto is a Cryptocurrency Marketplace</h3>
+
 <h3 align="center">The Project Hosted Here
  <a href="https://tokocrypto.prioknews.com" target="_blank">
         https://tokocrypto.prioknews.com
