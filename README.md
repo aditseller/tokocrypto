@@ -1,9 +1,9 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+        
     </a>
-    <h1 align="center">Toko Crypto UI</h1>
-    <br>
+    <h1 align="center">TokoCrypto</h1>
+    <p><h3>TokoCrypto is a Cryptocurrency Marketplace</h3></p>
 </p>
 
 
