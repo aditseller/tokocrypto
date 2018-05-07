@@ -66,7 +66,7 @@ class SiteController extends Controller
     {	
 		$this->layout = 'blank'; //View layout List in a views/layouts/blank.php
 
-        $content = trim(file_get_contents("https://api.coinmarketcap.com/v2/ticker/?convert=IDR")); // Get Data From CoinMarketCap
+        $content = trim(file_get_contents("http://api.coinmarketcap.com/v2/ticker/?convert=IDR")); // Get Data From CoinMarketCap
         $decoded = json_decode($content, true); //Decode Json
 
         //Render View
